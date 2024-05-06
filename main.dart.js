@@ -21862,7 +21862,7 @@ var $async$Ap=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:if($.as==null)A.a62()
 $.as.toString
 s=2
-return A.D($.adG().uK(0,".env"),$async$Ap)
+return A.D($.adG().uK(0,"secretenv"),$async$Ap)
 case 2:s=3
 return A.D(A.agY(),$async$Ap)
 case 3:q=$.adG().gKW().i(0,"SUPABASE_BASE_URL")
